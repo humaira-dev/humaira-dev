@@ -1,3 +1,6 @@
+![logo](https://github.com/humaira-dev/humaira-dev/blob/main/Humaira.png)
+
+
 <h1 align="center">Hi 👋, I'm Humaira Jalil</h1>
 <h3 align="center">Fluttering to Success: Building Scalable Mobile Solutions</h3>
 
